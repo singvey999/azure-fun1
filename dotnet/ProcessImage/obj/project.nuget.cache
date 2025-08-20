@@ -1,0 +1,27 @@
+{
+  "version": 2,
+  "dgSpecHash": "8twXmHegqCDlqJkBGQ7jS779hHQlelURUkeXibFAvRr4ZmDHjIT1rD4glnT11FbjOz5+ItwxcD+lPEXmd57wMg==",
+  "success": false,
+  "projectFilePath": "C:\\Users\\xzhang36\\azure-lab-function\\msdocs-storage-bind-function-service\\dotnet\\ProcessImage\\ProcessImage.csproj",
+  "expectedPackageFiles": [],
+  "logs": [
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\' doesn't exist.",
+      "libraryId": "Microsoft.Azure.CognitiveServices.Vision.ComputerVision"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\' doesn't exist.",
+      "libraryId": "Microsoft.Azure.WebJobs.Extensions.Storage"
+    },
+    {
+      "code": "NU1301",
+      "level": "Error",
+      "message": "The local source 'C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\' doesn't exist.",
+      "libraryId": "Microsoft.NET.Sdk.Functions"
+    }
+  ]
+}
